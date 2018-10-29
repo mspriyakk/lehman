@@ -2,3 +2,5 @@ archive/
 bak/
 *.class
 node_modules/
+*.dat
+!a.dat
