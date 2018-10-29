@@ -1,0 +1,4 @@
+archive/
+bak/
+*.class
+node_modules/
